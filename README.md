@@ -1,2 +1,2 @@
-# war-file-for-cybersecurity
+# pom-for-cybersecurity
 upload for snyk scan
